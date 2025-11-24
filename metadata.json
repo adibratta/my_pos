@@ -1,0 +1,5 @@
+{
+  "name": "SmartPOS Indonesia",
+  "description": "A comprehensive Point of Sale application with Admin and Cashier modes, featuring PO management, stock tracking, and AI-powered insights.",
+  "requestFramePermissions": []
+}
